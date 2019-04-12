@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-12T03:42:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.2.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "433_1"
+        },
+        "Owner": "John Girotto <johngirotto2018@u.northwestern.edu>",
+        "Size": {
+            "X": 40.31,
+            "Y": 50.79
+        }
+    }
+}

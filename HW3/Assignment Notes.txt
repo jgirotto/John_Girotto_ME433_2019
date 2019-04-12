@@ -1,0 +1,7 @@
+I avoided making libraries becasue I did this late at night sorry.
+
+I noticed the switch seems to fit regular dip spacing, and used a usb footprint I have access to in CG50 (same as a Tiva)
+
+I hope that is ok.  If not, or if this doesn't work I can slip a revision into one of my normal PCB orders, this one is quite messy.
+
+John
